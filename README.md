@@ -1,2 +1,3 @@
-# Class_file
-For the git course
+# My first project
+__For the git course__
+_HELLO GIT_
