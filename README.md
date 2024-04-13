@@ -1,4 +1,4 @@
-# My first project
+# Hotel Reservation Booking and Cancellation Project
 __For the git course__
 _HELLO GIT_
 
