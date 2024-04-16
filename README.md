@@ -5,6 +5,6 @@ Using Python and popular data analysis libraries such as Pandas, Matplotlib, and
 
 Whether you're a data enthusiast, hotel industry professional, or simply curious about hotel booking dynamics, this repository offers valuable insights and findings gotten from meticulous exploration and analysis of the hotel reservation dataset.
 
-[Datacamp Workspace](https://app.datacamp.com/workspace/w/eba162d8-28f1-4a26-8191-13032e081bfa/edit)
+[Datacamp Link](https://app.datacamp.com/workspace/w/eba162d8-28f1-4a26-8191-13032e081bfa/edit)
 
 
